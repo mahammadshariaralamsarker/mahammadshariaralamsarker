@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/mahammadshariaralamsarker/mahammadshariaralamsarker/refs/heads/main/images/GitHub%20banner.svg"/>
+<img src="https://github.com/mahammadshariaralamsarker/mahammadshariaralamsarker/blob/main/images/Section%201%20(1).png"/>
 <div style="font-family: Arial, sans-serif; line-height: 1.6; color: #333; max-width: 700px; margin: auto; padding: 20px; background-color: #f9f9f9; border: 1px solid #ddd; border-radius: 10px;">
     <h1 style="color: #0078d7; font-size: 2rem; text-align: center;">👋 Hi there, I'm Mahammad Shariar Alam Sarker!</h1>
     <p style="font-size: 1.2rem; text-align: center; color: #555;">
