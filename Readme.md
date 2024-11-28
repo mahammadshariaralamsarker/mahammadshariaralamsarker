@@ -1,11 +1,13 @@
-<img style="width:100%;" src="https://github.com/mahammadshariaralamsarker/mahammadshariaralamsarker/blob/main/images/Section%201%20(1).png" alt="Image description" />
-<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
-![Mahammad Shariar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahammadshariaralamsarker&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahammadshariaralamsarker&layout=compact&theme=dark&card_width=1000)
+
+
+<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
 <div style="font-family: Arial, sans-serif; line-height: 1.6; color: #333; max-width: 700px; margin: auto; padding: 20px; background-color: #f9f9f9; border: 1px solid #ddd; border-radius: 10px;">
     <h1 style="color: #0078d7; font-size: 2rem; text-align: center;">👋 Hi there, I'm Mahammad Shariar Alam Sarker!</h1>
     <p style="font-size: 1.2rem; text-align: center; color: #555;">
-        🌐 <strong>Full-Stack Web Developer</strong> | 🖥️ <strong>Tech Enthusiast</strong>
+        🌐 <strong>Full-Stack Web Developer</strong> | 🖥️ <strong>Programming Hero</strong>
     </p>
     <hr style="border: none; border-top: 1px solid #ddd; margin: 20px 0;">
     <section style="margin-bottom: 20px;">
