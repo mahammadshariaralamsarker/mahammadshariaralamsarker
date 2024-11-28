@@ -49,3 +49,4 @@
     </section>
     <p style="text-align: center; font-size: 1.2rem; color: #0078d7;">Happy coding! 🚀</p>
 </div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
