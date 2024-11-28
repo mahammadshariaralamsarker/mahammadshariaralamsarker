@@ -40,8 +40,8 @@
     <section style="margin-bottom: 20px;">
         <h2 style="color: #0078d7; font-size: 1.5rem;">💬 Let's Connect!</h2>
         <p>
-            <a href="https://www.linkedin.com" style="color: #0078d7; text-decoration: none;">💼 LinkedIn</a> | 
-            <a href="https://www.portfolio.com" style="color: #0078d7; text-decoration: none;">🌐 Portfolio</a>
+            <a href="https://www.linkedin.com/in/mahammad-shariar-alam-sarker-istian" style="color: #0078d7; text-decoration: none;">💼 LinkedIn</a> | 
+<!--             <a href="https://www.portfolio.com" style="color: #0078d7; text-decoration: none;">🌐 Portfolio</a> -->
         </p>
         <blockquote style="color: #555; font-style: italic; margin: 10px 0; border-left: 4px solid #0078d7; padding-left: 10px;">
             💡 "Code is like humor. When you have to explain it, it’s bad."
