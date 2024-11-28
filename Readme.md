@@ -1,5 +1,7 @@
 <img style="width:100%;" src="https://github.com/mahammadshariaralamsarker/mahammadshariaralamsarker/blob/main/images/Section%201%20(1).png" alt="Image description" />
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
+![Mahammad Shariar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahammadshariaralamsarker&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
 <div style="font-family: Arial, sans-serif; line-height: 1.6; color: #333; max-width: 700px; margin: auto; padding: 20px; background-color: #f9f9f9; border: 1px solid #ddd; border-radius: 10px;">
     <h1 style="color: #0078d7; font-size: 2rem; text-align: center;">👋 Hi there, I'm Mahammad Shariar Alam Sarker!</h1>
     <p style="font-size: 1.2rem; text-align: center; color: #555;">
@@ -49,4 +51,4 @@
     </section>
     <p style="text-align: center; font-size: 1.2rem; color: #0078d7;">Happy coding! 🚀</p>
 </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?mahammadshariaralamsarker=anuraghazra&hide=contribs,prs)
+
