@@ -25,10 +25,11 @@
             <div>
                 <h3 style="font-size: 1.2rem;">Frontend:</h3>
                 <ul style="list-style-type: disc; margin-left: 20px;">
-                    <li>React</li>
-                    <li>TailwindCSS</li>
                     <li>HTML5</li>
                     <li>CSS3</li>
+                    <li>TailwindCSS</li>
+                    <li>React</li>
+                    <li>Redux</li>
                 </ul>
             </div>
             <div>
@@ -37,6 +38,7 @@
                     <li>Node.js</li>
                     <li>Express.js</li>
                     <li>MongoDB</li>
+                     <li>Mongoose</li>
                 </ul>
             </div>
         </div>
