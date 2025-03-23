@@ -32,6 +32,7 @@
                     <li>TypeScript</li>
                     <li>React</li>
                     <li>Redux</li>
+                    <li>NEXT JS</li>
                 </ul>
             </div>
             <div>
