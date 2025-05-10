@@ -59,10 +59,18 @@ I'm open to **remote, hybrid, or onsite roles in Dhaka** — let’s connect and
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahammadshariaralamsarker&theme=dark&hide_border=false&layout=compact" 
         width="700px" 
         alt="Top Languages"
-      />
+      /><br>  
+      <!-- Corrected the second image URL -->
+      <img 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=mahammadshariaralamsarker&theme=dark&hide_border=false" 
+        alt="GitHub Stats"
+        width="700px"
+      /><br>  
     </td>
   </tr>
 </table>
+
+
 
 
 
