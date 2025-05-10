@@ -3,7 +3,7 @@
 
 
 
-<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
+
 <div style="font-family: Arial, sans-serif; line-height: 1.6; color: #333; max-width: 700px; margin: auto; padding: 20px; background-color: #f9f9f9; border: 1px solid #ddd; border-radius: 10px;">
     <h1 style="color: #0078d7; font-size: 2rem; text-align: center;">👋 Hi there, I'm Mahammad Shariar Alam Sarker!</h1>
     <p style="font-size: 1.2rem; text-align: center; color: #555;">
@@ -44,7 +44,6 @@
                      <li>Mongoose</li>
                 </ul>
             </div>
-            ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahammadshariaralamsarker&layout=compact&theme=dark&card_width=1000)
         </div>
     </section>
     <section style="margin-bottom: 20px;">
@@ -53,9 +52,6 @@
             <a href="https://www.linkedin.com/in/mahammad-shariar-alam-sarker-istian" style="color: #0078d7; text-decoration: none;">💼 LinkedIn</a> | 
             <a href="https://mahammad-shariar-alam-sarker-portfolio.vercel.app" style="color: #0078d7; text-decoration: none;">🌐 Portfolio</a>
         </p>
-        <blockquote style="color: #555; font-style: italic; margin: 10px 0; border-left: 4px solid #0078d7; padding-left: 10px;">
-            💡 "Code is like humor. When you have to explain it, it’s bad."
-        </blockquote>
     </section>
     <p style="text-align: center; font-size: 1.2rem; color: #0078d7;">Happy coding! 🚀</p>
 </div>
