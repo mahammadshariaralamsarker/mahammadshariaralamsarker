@@ -5,7 +5,14 @@
 
 
 <div style="font-family: Arial, sans-serif; line-height: 1.6; color: #333; max-width: 700px; margin: auto; padding: 20px; background-color: #f9f9f9; border: 1px solid #ddd; border-radius: 10px;">
-    <h1 style="color: #0078d7; font-size: 2rem; text-align: center; margin-bottom:2rem">👋 Hi there, I'm <br> Mahammad Shariar Alam Sarker!</h1>
+  <h1
+    className="text-[#0078d7] text-2xl md:text-4xl xl:text-5xl font-bold mb-6"
+  >
+     Hi there, I'm
+    <br />
+    <span className="ml-8 inline-block">👋 Mahammad Shariar Alam Sarker!</span>
+ 
+  </h2>
     <p style="font-size: 1.2rem; text-align: center; color: #555;">
         🌐 <strong>MERN Stack Developer</strong>  
     </p>
@@ -22,7 +29,7 @@
     <section style="margin-bottom: 20px;">
         <h2 style="color: #0078d7; font-size: 1.5rem;">💼 Tech Stack</h2>
         <div style="display: flex; justify-content: space-between;">
-            <div>
+            <div style="display: flex; justify-content: space-between;">
                 <h3 style="font-size: 1.2rem;">Frontend:</h3>
                 <ul style="list-style-type: disc; margin-left: 20px;">
                     <li>HTML5</li>
