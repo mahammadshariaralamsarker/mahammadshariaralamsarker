@@ -1,6 +1,6 @@
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahammadshariaralamsarker&layout=compact&theme=dark&card_width=1000)
+
 
 
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
@@ -44,6 +44,7 @@
                      <li>Mongoose</li>
                 </ul>
             </div>
+            ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahammadshariaralamsarker&layout=compact&theme=dark&card_width=1000)
         </div>
     </section>
     <section style="margin-bottom: 20px;">
