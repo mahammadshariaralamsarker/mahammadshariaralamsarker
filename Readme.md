@@ -46,7 +46,7 @@ I'm open to **remote, hybrid, or onsite roles in Dhaka** — let’s connect and
       <p><strong>🖥️ Frontend</strong></p>
       <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,redux&perline=8" /><br><br>
       <p><strong>⚙️ Backend</strong></p>
-      <img src="https://skillicons.dev/icons?i=nodejs,express&perline=4" /><br><br>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&perline=4" /><br><br>
       <p><strong>🗄️ Database</strong></p>
       <img src="https://skillicons.dev/icons?i=mongodb,firebase&perline=4" /><br><br>
       <p><strong>🛠️ Tools & Platforms</strong></p>
