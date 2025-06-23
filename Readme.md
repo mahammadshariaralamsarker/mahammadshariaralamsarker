@@ -50,7 +50,7 @@ I'm open to **remote, hybrid, or onsite roles in Dhaka** — let’s connect and
       <p><strong>🗄️ Database</strong></p>
       <img src="https://skillicons.dev/icons?i=mongodb,firebase&perline=4" /><br><br>
       <p><strong>🛠️ Tools & Platforms</strong></p>
-      <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify&perline=4" />
+      <img src="https://skillicons.dev/icons?i=git,github,vercel,swaggerUI&perline=4" />
     </td>
     <!-- Language Stats Column -->
     <td width="50%" align="center" valign="top">
