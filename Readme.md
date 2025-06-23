@@ -44,13 +44,13 @@ I'm open to **remote, hybrid, or onsite roles in Dhaka** — let’s connect and
     <td width="50%" valign="top"> 
       <h3>🧰 Tech Stack</h3>
       <p><strong>🖥️ Frontend</strong></p>
-      <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,redux&perline=8" /><br><br>
+      <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,nextjs,redux&perline=8" /><br><br>
       <p><strong>⚙️ Backend</strong></p>
       <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&perline=4" /><br><br>
       <p><strong>🗄️ Database</strong></p>
-      <img src="https://skillicons.dev/icons?i=mongodb,firebase&perline=4" /><br><br>
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase&perline=4" /><br><br>
       <p><strong>🛠️ Tools & Platforms</strong></p>
-      <img src="https://skillicons.dev/icons?i=git,github,vercel,swaggerUI&perline=4" />
+      <img src="https://skillicons.dev/icons?i=git,github,vercel,swagger&perline=4" />
     </td>
     <!-- Language Stats Column -->
     <td width="50%" align="center" valign="top">
