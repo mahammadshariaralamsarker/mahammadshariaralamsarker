@@ -42,15 +42,30 @@ I'm open to **remote, hybrid, or onsite roles in Dhaka** — let’s connect and
   <tr>
     <!-- Tech Stack Column -->
     <td width="50%" valign="top"> 
-      <h3>🧰 Tech Stack</h3>
+      <br>
       <p><strong>🖥️ Frontend</strong></p>
-      <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,nextjs,redux&perline=8" /><br><br>
-      <p><strong>⚙️ Backend</strong></p>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&perline=4" /><br><br>
-      <p><strong>🗄️ Database</strong></p>
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase&perline=4" /><br><br>
-      <p><strong>🛠️ Tools & Platforms</strong></p>
-      <img src="https://skillicons.dev/icons?i=git,github,vercel,swagger&perline=4" />
+ 
+
+| <img src="https://skillicons.dev/icons?i=html" height="40" /> | <img src="https://skillicons.dev/icons?i=css" height="40" /> | <img src="https://skillicons.dev/icons?i=bootstrap" height="40" /> | <img src="https://skillicons.dev/icons?i=tailwind" height="40" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" height="40" /> |  <img src="https://res.cloudinary.com/dhl04adhz/image/upload/v1747754440/next-portfolio/shadcn.png.png" height="40" /> | 
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| HTML | CSS | Bootstrap | Tailwind | Material UI | Shadcn UI 
+
+| <img src="https://skillicons.dev/icons?i=js" height="40" /> | <img src="https://skillicons.dev/icons?i=ts" height="40" /> | <img src="https://skillicons.dev/icons?i=react" height="40" /> | <img src="https://skillicons.dev/icons?i=nextjs" height="40" /> | <img src="https://skillicons.dev/icons?i=redux" height="40" /> |
+| :---: | :---: | :---: | :---: | :---: |
+| JavaScript | TypeScript | React | Next.js | Redux |
+
+### ⚙️ Backend
+
+| <img src="https://skillicons.dev/icons?i=nodejs" height="40" /> | <img src="https://skillicons.dev/icons?i=nestjs" height="40" /> | <img src="https://skillicons.dev/icons?i=express" height="40" /> | <img src="https://skillicons.dev/icons?i=postgresql" height="40" /> | <img src="https://skillicons.dev/icons?i=prisma" height="40" /> | <img src="https://skillicons.dev/icons?i=mongodb" height="40" /> |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| Node.js | Nest JS | Express | PostgreSQL | Prisma | MongoDB |
+
+### ⚙️ Currently Learning
+| <img src="https://skillicons.dev/icons?i=docker" height="40" /> | <img src="https://skillicons.dev/icons?i=aws" height="40" /> | <img src="https://skillicons.dev/icons?i=graphql" height="40" /> |
+| :---: | :---: | :---: |
+| Docker | AWS | GraphQl |
+
+<br>
     </td>
     <!-- Language Stats Column -->
     <td width="50%" align="center" valign="top">
@@ -65,7 +80,11 @@ I'm open to **remote, hybrid, or onsite roles in Dhaka** — let’s connect and
         src="https://github-readme-streak-stats.herokuapp.com/?user=mahammadshariaralamsarker&theme=dark&hide_border=false" 
         alt="GitHub Stats"
         width="700px"
-      /><br>  
+      /><br>
+      <p align="center">
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahammadshariaralamsarker&theme=vision_friendly_dark&utcOffset=8&hide_border=false" width="700px">
+</p>
+      <br>
     </td>
   </tr>
 </table>
