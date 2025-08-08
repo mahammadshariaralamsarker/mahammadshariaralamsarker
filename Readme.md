@@ -55,13 +55,13 @@ I'm open to **remote, hybrid, or onsite roles in Dhaka** — let’s connect and
 | JavaScript | TypeScript | React | Next.js | Redux |
    <br>
 ⚙️ Backend
-
 | <img src="https://skillicons.dev/icons?i=nodejs" height="40" /> | <img src="https://skillicons.dev/icons?i=nestjs" height="40" /> | <img src="https://skillicons.dev/icons?i=express" height="40" /> | <img src="https://skillicons.dev/icons?i=postgresql" height="40" /> | <img src="https://skillicons.dev/icons?i=prisma" height="40" /> | <img src="https://skillicons.dev/icons?i=mongodb" height="40" /> |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | Node.js | Nest JS | Express | PostgreSQL | Prisma | MongoDB |
    <br>
    
  📖 Currently Learning
+ 
 | <img src="https://skillicons.dev/icons?i=docker" height="40" /> | <img src="https://skillicons.dev/icons?i=aws" height="40" /> | <img src="https://skillicons.dev/icons?i=graphql" height="40" /> |
 | :---: | :---: | :---: |
 | Docker | AWS | GraphQl |
