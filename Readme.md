@@ -98,19 +98,4 @@ I'm open to **remote, hybrid, or onsite roles in Dhaka** — let’s connect and
   <img src="https://komarev.com/ghpvc/?username=mahammadshariaralamsarker&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
-<!-- Decorative Welcome -->
-<p align="center">
-  <img alt="Thanks for visiting my profile" width="100%" src="https://raw.githubusercontent.com/UjjwalSaini07/UjjwalSaini07/a7598cee98fcfe66abb1985c41cba4e116a92c1d/Assets_Used/Gifs/marqueeWelcome.svg" />
-</p>
 
-<!-- Decorative Footer -->
-<img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/neon-line.gif" width="100%">
-
-<!-- Typing Footer -->
-<h4 align="center">
-  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Downward_Arrow.gif" width="38"> 
-  <a href="https://github.com/mahammadshariaralamsarker">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=500&size=20&duration=4980&pause=1099&color=FFFFFF&vCenter=true&random=false&width=550&lines=Check+my+Pinned+Repositories+below+and+leave+a+Star+✯" alt="Typing SVG"/>
-  </a>
-  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Downward_Arrow.gif" width="38">
-</h4>
