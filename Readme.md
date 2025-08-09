@@ -38,7 +38,7 @@ I'm open to **remote, hybrid, or onsite roles in Dhaka** — let’s connect and
 ---
 
 <!-- Tech Stack & Language Stats -->
-<table width="100%" cellspacing="0" cellpadding="10">
+<table width="100%" cellspacing="0" cellpadding="10" padding="60px">
   <tr>
     <!-- Tech Stack Column -->
     <td width="50%" valign="top"> 
