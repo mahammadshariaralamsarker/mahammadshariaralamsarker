@@ -43,16 +43,12 @@ I'm open to **remote, hybrid, or onsite roles in Dhaka** — let’s connect and
     <!-- Tech Stack Column -->
     <td width="50%" valign="top"> 
       <br>
-      <p><strong>🖥️ Frontend</strong></p>
- 
+🖥️ Frontend
+  
+| <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap" /> | <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" /> | <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" /> | <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" /> | <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" /> | <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" /> |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Bootstrap | Tailwind CSS | JavaScript | TypeScript | React | Next.js |
 
-| <img src="https://skillicons.dev/icons?i=html" height="40" /> | <img src="https://skillicons.dev/icons?i=css" height="40" /> | <img src="https://skillicons.dev/icons?i=bootstrap" height="40" /> | <img src="https://skillicons.dev/icons?i=tailwind" height="40" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" height="40" /> |  <img src="https://res.cloudinary.com/dhl04adhz/image/upload/v1747754440/next-portfolio/shadcn.png.png" height="40" /> | 
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| HTML | CSS | Bootstrap | Tailwind | Material UI | Shadcn UI 
-
-| <img src="https://skillicons.dev/icons?i=js" height="40" /> | <img src="https://skillicons.dev/icons?i=ts" height="40" /> | <img src="https://skillicons.dev/icons?i=react" height="40" /> | <img src="https://skillicons.dev/icons?i=nextjs" height="40" /> | <img src="https://skillicons.dev/icons?i=redux" height="40" /> |
-| :---: | :---: | :---: | :---: | :---: |
-| JavaScript | TypeScript | React | Next.js | Redux |
    <br>
 ⚙️ Backend
 
