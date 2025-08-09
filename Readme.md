@@ -31,8 +31,10 @@
 ### 💡 About Me
 
 Hi, I’m **Mahammad Shariar Alam Sarker**, a passionate full-stack web developer currently pursuing a BSc in Computer Science and Engineering at the **Institute of Science and Technology (Dhanmondi), Bangladesh**.  
+  <br>
 I specialize in building modern web applications using **React.js, Next.js, TypeScript, Node.js, Express.js**, and **MongoDB**.  
 With a strong foundation in frontend development, I’m now focused on deepening my backend skills, learning system design, and creating scalable, real-world projects.  
+  <br>
 I'm open to **remote, hybrid, or onsite roles in Dhaka** — let’s connect and build something impactful together!
 
 ---
