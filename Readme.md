@@ -75,7 +75,6 @@ I'm open to **remote, hybrid, or onsite roles in Dhaka** — let’s connect and
     </td>
     <!-- Language Stats Column -->
     <td width="50%" align="center" valign="top">
-      <h3>📊 Most Used Languages</h3>
       <img 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahammadshariaralamsarker&theme=dark&hide_border=false&layout=compact" 
         width="700px" 
