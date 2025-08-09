@@ -43,27 +43,29 @@ I'm open to **remote, hybrid, or onsite roles in Dhaka** — let’s connect and
     <!-- Tech Stack Column -->
     <td width="50%" valign="top"> 
       <br>
-🖥️ Frontend
-  
+<h3>🖥️  Frontend </h3>
+      
+
+      
 | <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap" /> | <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" /> | <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" /> | <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" /> | <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" /> | <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" /> |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | Bootstrap | Tailwind | JavaScript | TypeScript | React | Next.js |
 
-   <br>
-⚙️ Backend
+ 
+<h3>⚙️ Backend</h3>
 
 | <img src="https://skillicons.dev/icons?i=nodejs" height="40" /> | <img src="https://skillicons.dev/icons?i=nestjs" height="40" /> | <img src="https://skillicons.dev/icons?i=express" height="40" /> | <img src="https://skillicons.dev/icons?i=prisma" height="40" /> | <img src="./images/typeorm-icon-colored.png" height="40" /> | 
 | :---: | :---: | :---: | :---: | :---: | 
 | Node.js | Nest JS | Express  | Prisma | TypeORM |
-   <br>
+ 
    
-⛁ Database
+<h3>⛁ Database</h3>
 
 | <img src="https://skillicons.dev/icons?i=postgresql" height="40" /> |<img src="https://skillicons.dev/icons?i=mongodb" height="40" /> |
 | :---: |:---: |
 | PostgreSQL | MongoDB |
-<br>
- 📖 Currently Learning
+ 
+ <h3>📖 Currently Learning</h3>
  
 | <img src="https://skillicons.dev/icons?i=docker" height="40" /> | <img src="https://skillicons.dev/icons?i=aws" height="40" /> | <img src="https://skillicons.dev/icons?i=graphql" height="40" /> |
 | :---: | :---: | :---: |
