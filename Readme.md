@@ -42,7 +42,6 @@ I'm open to **remote, hybrid, or onsite roles in Dhaka** — let’s connect and
   <tr>
     <!-- Tech Stack Column -->
     <td width="50%" valign="top"> 
-      <br>
 <h3>🖥️  Frontend </h3>
       
 
