@@ -98,8 +98,6 @@ I'm open to **remote, hybrid, or onsite roles in Dhaka** — let’s connect and
 
 
 
-
-
 <!-- Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mahammadshariaralamsarker&color=blueviolet&style=flat-square" alt="Profile Views" />
