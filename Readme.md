@@ -8,7 +8,6 @@
     <span style="margin-left: 1rem;">Mahammad Shariar Alam Sarker!</span>
   </h1>
 </div>
-
 <!-- Contact & Links -->
 <div align="center">
   
