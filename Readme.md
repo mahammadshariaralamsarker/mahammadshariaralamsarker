@@ -60,7 +60,6 @@ I'm open to **remote, hybrid, or onsite roles in Dhaka** — let’s connect and
  
    
 <h3>⛁ Database</h3>
-
 | <img src="https://skillicons.dev/icons?i=postgresql" height="40" /> |<img src="https://skillicons.dev/icons?i=mongodb" height="40" /> |<img src="https://skillicons.dev/icons?i=redis" height="40" alt="Bootstrap" /> | 
 | :---: |:---: |:---: |
 | PostgreSQL | MongoDB | Redis
