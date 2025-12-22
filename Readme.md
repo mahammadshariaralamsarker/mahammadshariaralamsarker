@@ -45,7 +45,6 @@ I'm open to **remote, hybrid, or onsite roles in Dhaka** — let’s connect and
     <td width="50%" valign="top"> 
 <h3>🖥️  Frontend </h3>
       
-
       
 | <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap" /> | <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" /> | <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" /> | <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" /> | <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" /> | <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" /> |
 |:---:|:---:|:---:|:---:|:---:|:---:|
