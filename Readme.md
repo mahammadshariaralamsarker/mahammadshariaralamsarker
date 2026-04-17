@@ -60,21 +60,15 @@ I'm open to **remote, hybrid, or onsite roles in Dhaka** — let’s connect and
 
 ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
-
 <p align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
-
   <img src="https://github-readme-stats.vercel.app/api?username=mahammadshariaralamsarker&show_icons=true&theme=dark"
-       style="width: 320px; max-width: 100%; height: 180px;" />
+       width="300" height="180"/>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahammadshariaralamsarker&theme=dark"
-       style="width: 320px; max-width: 100%; height: 180px;" />
+       width="300" height="180"/>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahammadshariaralamsarker&layout=compact&theme=dark"
-       style="width: 320px; max-width: 100%; height: 180px;" />
-
-  </div>
+       width="300" height="180"/>
 </p>
 
 ---
