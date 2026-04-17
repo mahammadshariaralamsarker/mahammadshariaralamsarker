@@ -11,7 +11,7 @@
 
 <!-- Contact & Links -->
 <p align="center">
-  🌐 _Connect with Me_:<br><br>
+  🌐 _Connect with Me:
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%231572B6.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahammad-shariar-alam-sarker-istian)
   [![Portfolio](https://img.shields.io/badge/Portfolio-%2310f.svg?style=for-the-badge&logo=&logoColor=white)](https://mahammad-shariar-alam-sarker-portfolio.vercel.app/)
